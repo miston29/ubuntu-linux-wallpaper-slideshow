@@ -38,7 +38,7 @@ Follow these steps to get your slideshow toggle running:
 above example uses ubuntu's default wallpapers 
 
 
-### 3. Update the Toggle Script
+#### 3. Update the Toggle Script
 Open `slideshow_toggle.sh` and update the absolute paths for `slideshow.py` and the `slideshow_settings.json`:
 
 ```
@@ -46,14 +46,14 @@ SCRIPT_FULL_PATH="/path/to/your/slideshow.py"
 JSON_PATH="/path/to/your/slideshow_settings.json"
 ```
 
-### 4. Update the Desktop Entry
+#### 4. Update the Desktop Entry
 Open walls.desktop using any text eidtor and change the Exec line to point to the location of `slideshow_toggle.sh`:
 
 ```
 Exec=/path/to/your/slideshow_toggle.sh
 ```
 
-### 5. Permissions and Activation
+#### 5. Permissions and Activation
 grant appropriate permissions to `slideshow_toggle.sh` and `walls.desktop` to make them functional:
 
 - for `slideshow_settings.sh`:
