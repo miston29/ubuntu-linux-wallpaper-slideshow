@@ -1,0 +1,9 @@
+{
+    "slideshow_folder": "/home/path/to/Pictures/or/wherever",
+    "default_image": "/usr/share/backgrounds/warty-final-ubuntu.png",
+    "screen_height": 1080,
+    "screen_width" : 1920,
+    "sleep_time": 60
+}
+
+
