@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=wallys
+Exec=/home/CHANGE/PATH/TO/slideshow_toggle.sh
+Icon=image-viewer
+Type=Application
+Terminal=false
